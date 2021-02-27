@@ -1,4 +1,5 @@
 apiVersion: v2
+publisher: eclipse
 title: Jupyter Notebook as Editor for Eclipse Che
 displayName: Jupyter Notebook
 description: Jupyter Notebook as Editor for Eclipse Che
